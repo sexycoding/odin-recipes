@@ -1,0 +1,19 @@
+/* style.ss */
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+    font-size: medium;
+}
+ul, ol{
+    padding-left: 0
+  }
+  
+li {
+    list-style-position: inside;
+  }
+.imgsize {
+height: 300px;    
+}
